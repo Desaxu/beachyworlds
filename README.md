@@ -1,4 +1,4 @@
-# BeacyWorlds
+# BeachyWorlds
 This is the **backup** files of the once-active Classicube server **BeachyWorlds**.
 _MCGalaxy is made by UnknownShadow200 and Classicube is made by AndrewPH, with no affilation to Mojang or Microsoft._
 
