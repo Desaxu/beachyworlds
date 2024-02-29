@@ -1,0 +1,30 @@
+#This is a full list of awards. The server will load these and they can be awarded as you please
+#Format is:
+# AwardName : Description of award goes after the colon
+
+# Parkour
+-- Parkour -- : --
+Starting Up! : complete any level for the first time.
+So far, so good : complete 3 levels
+Bronze : beat all levels normally.
+Silver : beat all levels with a few deaths.
+Gold : beat all levels without dying.
+Platinum : beat all levels with minimal jumps.
+
+# PVP
+-- Player VS Player -- : --
+Welcome to the arena! : join pvparena
+First Blood : kill someone for the first time.
+5-kill : kill 5 people.
+10-kill : kill 10 people. 
+Duo-kill : kill 2 people in one combo.
+Combo-maker : kill 5 people in one go.
+The saferoom? : Somehow get up to the safezone area.
+
+# Other
+-- Other -- : -- (joke awards)
+metalica : yeah yeah yeah!
+i forgor : forgor what? your memory?
+i quote myself for no peticular reason in my login messages : :L
+fnf : beep boop bap skadap bap
+underaged : congratulations, you've literally got yourself into a teenager block gaem
