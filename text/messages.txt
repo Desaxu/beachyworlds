@@ -1,0 +1,12 @@
+%c(!)%f %eYou should read and follow the rules, it's quite helpful to not get your self in trouble by accident! %o/rules%f
+%c(!)%f %eCheck out the Frequently Asked Questions (FAQ) for any help: %y/faq%f
+%c(!)%f %eGrief is a punishable offense, so be wary of what you touch.%f
+%c(...)%f %bCome join the BWorlds server: https://discord.gg/rheVhWFRcY %f
+%e(?)%f %eYou can make your own levels with %y/os map add%f, and if you need help, try inputting in %y/help os%f!
+%e(?)%f %eAnnoying or otherwise spammy player? You can mute them with %y/mute (Example: /os mute Onion)%f
+%ySnoodle!%f
+%9You... You ate my flan! (joking)%f
+%4I've heard about some "heat death of the universe" thing happening on August 12th of 2036... Is it true?%f
+%eHehee. I'm non-existant to everyone here, because i am messages.txt!%f
+%c(Desaxu was here)
+%iNOOOOOOOOOOOOOOOOOOOOOOooooooooooO!!!%f

@@ -1,0 +1,80 @@
+// This file is used to replace words/phrases sent to discord
+// Lines starting with // are ignored
+// Lines should be formatted like this:
+// example:http://example.org
+// That would replace 'example' in messages sent with 'http://example.org'
+
+// Messages
+√ : <:saxo:1014920429086982254>
+█ : <:saxo:1014920429086982254>
+@everyone : everyone
+@here : here
+the bread : <:thebread:945436431558512730>
+bread : <:thebread:945436431558512730>
+$flairs : (insert flairs here)
+$name : Player
+$skin : Player.png
+$truename : Player
+$ip : [REDACTED]
+
+// Faces
+☻ : :slight_smile:
+░ : :frowning2:
+▒ : :smiley:
+▓ : :angry:
+│ : :worried:
+┤ : :smile: 
+╡ : :sob:
+╢ : :face_with_raised_eyebrow: 
+╖ : :expressionless:
+╕ : :neutral_face: 
+╣ : :sunglasses:
+║ : :thinking:
+╗ : :expressionless::middle_finger:
+╝ : :joy:
+╜ : :astonished: 
+╛ : :blush:
+┐ : :clown:
+
+// Flairs
+└ : :skull:
+┴ : 👻
+┬ : :video_game:
+├ : :video_game:
+─ : :eye:
+┼ : :eye:
+╞ : :crossed_swords:
+╟ : :pick:
+╚ : :axe:
+╔ : :leaves:
+╩ : :feet:
+╠ : :transgender_flag:
+╦ : :beach_umbrella: 
+═ : :rainbow_flag: 
+╬ : <:asexual:1021737704741945426>
+╧ : <:bisexual:1021737703114559508>
+╨ : :person_standing:
+╘ : :snake:
+╒ : :ant:
+╓ : :worm:
+╫ : :knife:
+
+// Other
+▐ : <:staff:1016016352928071833>
+╤ : :question:
+╥ : ...
+╙ : :exclamation:
+╪ : :heart:
+┘ : :broken_heart: 
+┌ : :black_heart:
+▄ : :warning: 
+▌ : :round_pushpin: 
+▀ : (BW Staff)
+■ : :white_medium_small_square: 
+
+// Names
+Desaxu : Nitro
+Scaaltite : Scaal
+iamreallycube : Arin
+Nividim : Arin
+koy+ : Arin

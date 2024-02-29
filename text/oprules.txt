@@ -1,0 +1,18 @@
+%bR1:%f Don't abuse admin to the fullest, this is not an anarchy server.
+%bR2:%f Respect other staff members and listen to what they say.
+%bR3:%f Do not change other's nicks without permission from them or staff.
+%bR4:%f Follow %o/rules%f as even though your are in power doesn't mean the rules can't effect you.
+%oR5 (Optional):%f Check on the sandbox levels for any griefing and punish the griefer based on the punishments below.
+--
+%bIf any other staff member is breaking rules, report to higher staff immediately and they will take action. You are responsible for the actions caused and punishments can be taken.%f
+%bStaff members have 3 chances before they get demoted back to their last rank before they were promoted, so use them wisely.%f
+--
+&~Punishments for rulebreakers:&f
+%~(Legend: Rule number - 1st, 2nd and Final offense)%f
+%eR1%f- Warn,Temp Mute (15m),Perm Mute/Ban
+%eR2%f - Temp Mute (5m), Warn, Temp Ban for 15days
+%eR3%f - Warn, Temp Mute (15min), Temp Ban (30d)
+%eR4%f - Temp Ban (30d), Perm Ban
+%eR5%f - Temp Mute (15m), Extended Mute (20m), Perm Mute
+%eR6%f - Temp Mute (5m), Warn, Perm Ban
+%eR7%f - Warn, Banned from parkour maps

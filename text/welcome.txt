@@ -1,0 +1,1 @@
+%y Hi $truename! Welcome to the beach life, check out /rules and /faq before you get started! %f

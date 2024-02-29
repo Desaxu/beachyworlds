@@ -1,0 +1,11 @@
+{0} slained {1}
+{0} flatlined {1} to infection
+{0} ate {1}'s brain
+{0} turned {1} into a undead minion
+{1} was mauled to death by {0}
+{1} vital organs were ruptured
+{1} was fragged with undeadliness by {0}
+{1}'s plea for death was answered by {0}
+{0} changed {1}'s race
+{0} transzombified {1}
+{0} really had to do it to them

@@ -1,0 +1,7 @@
+shortnick
+adventure
+announce
+quote
+Preset
+FakeGive
+Impersonate

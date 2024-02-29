@@ -1,0 +1,6 @@
+#Version 2
+kill
+walk 2039 4051 1554 65 37
+walk 2038 4051 1550 192 12
+walk 13 4051 1550 192 12
+linkscript kill,

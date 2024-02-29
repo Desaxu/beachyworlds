@@ -1,0 +1,7 @@
+&~R1: &fBe friendly, and respect everyone.&f
+&~R2: &fDo not flood chat with random gibberish or links.&f
+&~R3: &fPlease ask permission before advertising any links or servers &e(mentioning is fine, though.)&f
+&~R4: &fNSFW &e(including suggestive content)&f is not allowed here, you will get banned on sight if caught.&f
+&~R5: &fPlease be wary of what you say, if it contains sensitive topics that can offend others, don't send it.&f
+&~R6: &cNO BACKSEAT MODERATING!&f Instead, report it to the staff! &e(/report <player> <reason>)&f
+&~R7: &fHacked clients are allowed, so long they are not on &b-hax&f maps &e(like hub, for example).&f

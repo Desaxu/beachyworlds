@@ -1,0 +1,28 @@
+# Aliases can be in one of three formats:
+# trigger : command
+#    e.g. "xyz : help" means /xyz is treated as /help <args given by user>
+# trigger : command [prefix]
+#    e.g. "xyz : help me" means /xyz is treated as /help me <args given by user>
+# trigger : command <prefix> {args} <suffix>
+#    e.g. "mod : setrank {args} mod" means /mod is treated as /setrank <args given by user> mod
+fbrules : view fbrules
+pixelrules : view pixelrules
+meetingrules : view meetingrules
+links : view links
+leave : quit
+home : main
+hub : main
+lobby : main
+enter : goto {args}
+social : view links
+banned : banlist
+who : players
+botnick : nick bot {args}
+botcolor : color bot {args}
+botmodel : model bot {args}
+botskin : skin bot {args}
+ratio : roll 15
+ccolors : customcolors {args}
+flairs : view flairs
+sandboxes : view fbs
+
